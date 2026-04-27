@@ -41,7 +41,7 @@ A simple expense tracker web app built with Django
 **Tasks:**
 - [ ] Gumawa ng `expense_list` view
 - [ ] Gumawa ng URL para sa list
-- [ ] Gumawa ng `expense_list.html` template
+- [ ] Gumawa ng `expense_list.html` template 
 - [ ] I-display ang lahat ng expenses sa table
 - [ ] I-display ang total ng lahat ng expenses
 
